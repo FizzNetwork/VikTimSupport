@@ -78,10 +78,10 @@ def ensure_packages(packages):
 def load_config():
     config = {
         'twitter': {
-            'api_key': 'VEdSTNAOruohB4M3HFCwKEHMX',
-            'api_secret_key': 'QgJuNKF7Gsnq3rESzOy6r8FWCIm52gvuWMKbaki1fV8XcvYUXN',
-            'access_token': '1385229685836091392-2rs899MIZ00y1Phl73qiHJEFyvJ8s5',
-            'access_token_secret': 'mBx5wZxLPtf7MM9Parlg5AZvYzoQJXzN8R2NYyR2cZioW'
+            'api_key': 'YOUR-OWN-CREDENTIALX',
+            'api_secret_key': 'YOUR-OWN-CREDENTIAL',
+            'access_token': 'YOUR-OWN-CREDENTIAL5',
+            'access_token_secret': 'YOUR-OWN-CREDENTIALW'
         },
         'aws': {
             'region': 'eu-north-1'
